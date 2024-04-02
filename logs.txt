@@ -1,0 +1,36 @@
+commit 12d1cd6422224bd9a331bcfce61ed5f0086b1c3f (HEAD -> master, orgin/bug2, bug2)
+Author: Violetka Krsteva <violetkakrsteva31@gmail.com>
+Date:   Tue Apr 2 17:19:08 2024 +0200
+
+    Call method makeBigStringFrom in main class
+    call message
+
+commit fdfa67ddf1b813f3d143d4b6bd1de833e8f32f96
+Author: Violetka Krsteva <violetkakrsteva31@gmail.com>
+Date:   Tue Apr 2 17:06:23 2024 +0200
+
+    Fix wrong condition in filterOddLengthStrings
+
+commit c7ac48a19bf72399102cfa60b23dfab5bf7e3be6 (orgin/master, orgin/bug1, bug1)
+Author: Violetka Krsteva <violetkakrsteva31@gmail.com>
+Date:   Tue Apr 2 17:12:42 2024 +0200
+
+    Call method filterOddLengthStrings in main class
+
+commit 246393d052fa5bd5977e3a60662d617fd3140d6c
+Author: Violetka Krsteva <violetkakrsteva31@gmail.com>
+Date:   Tue Apr 2 17:01:32 2024 +0200
+
+     Fix wrong condition in filterOddLengthStrings
+
+commit e80eab6e5d61187b2ea0f7fdc7f86401bb5f5c36
+Author: Violetka Krsteva <violetkakrsteva31@gmail.com>
+Date:   Tue Apr 2 16:40:48 2024 +0200
+
+    Add starter code
+
+commit 2dccf64843674ea8d9b9f1ee1f69a46f657cde7b
+Author: Violetka Krsteva <violetkakrsteva31@gmail.com>
+Date:   Tue Apr 2 15:49:45 2024 +0200
+
+
